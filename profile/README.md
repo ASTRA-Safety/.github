@@ -1,7 +1,7 @@
 # 🚀 ASTRA: Alignment Science & Technology Research Alliance
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ASTRA-safety/.github/main/assets/logo.png" alt="ASTRA Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ASTRA-safety/.github/main/profile/assets/logo.png" alt="ASTRA Logo" width="200"/>
 
   **Solving the superintelligence alignment problem before AGI deployment**
 
